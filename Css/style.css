@@ -356,7 +356,6 @@ a{
 #sec4{
     text-align: center;
     position: relative;
-    background-color: #fff;
     background-image: url(/Images/plugin\ webpage\ bg\ 2.png);
     object-fit: fill;
     background-size: contain;
@@ -408,7 +407,6 @@ border-radius: 180px;
 /******************************************* owl ***************************************/
 #featuress{
     position: relative;
-    background-color: #fff;
     background-image: url(/Images/plugin\ webpage\ bg\ 2.png);
     object-fit: fill;
     background-size: contain;

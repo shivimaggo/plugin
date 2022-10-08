@@ -151,7 +151,7 @@ body::-webkit-scrollbar-thumb{
 
 /******************************************* section2 ***************************************/
 #sec2{
-    background-image: url(/Images/plugin\ webpage\ bg\ 2.png);
+    background-image: url(Images/plugin\ webpage\ bg\ 2.png);
     object-fit: fill;
     background-size: contain;
     padding: 0 10%;
@@ -356,7 +356,7 @@ a{
 #sec4{
     text-align: center;
     position: relative;
-    background-image: url(/Images/plugin\ webpage\ bg\ 2.png);
+    background-image: url(Images/plugin\ webpage\ bg\ 2.png);
     object-fit: fill;
     background-size: contain;
     padding: 30px 10%;
@@ -407,7 +407,7 @@ border-radius: 180px;
 /******************************************* owl ***************************************/
 #featuress{
     position: relative;
-    background-image: url(/Images/plugin\ webpage\ bg\ 2.png);
+    background-image: url(Images/plugin\ webpage\ bg\ 2.png);
     object-fit: fill;
     background-size: contain;
     padding: 0 10% 20px 10%;
@@ -432,7 +432,7 @@ border-radius: 180px;
 /******************************************* section 5 ***************************************/
 #sec5{
     position: relative;
-    background-image: url(/Images/plugin\ webpage\ bg\ 2.png);
+    background-image: url(Images/plugin\ webpage\ bg\ 2.png);
     object-fit: fill;
     background-size: contain;
     padding: 0px 10% 20px 10%;
@@ -499,7 +499,7 @@ border-radius: 180px;
 
 #testimonials{
     position: relative;
-    background-image: url(/Images/plugin\ webpage\ bg\ 2.png);
+    background-image: url(Images/plugin\ webpage\ bg\ 2.png);
     object-fit: fill;
     background-size: contain;
     padding: 0px 10% 20px 10%;

@@ -121,7 +121,7 @@ body::-webkit-scrollbar-thumb{
 /******************************************* home ***************************************/
 /******************************************* section1 ***************************************/
 #section1{
-    background-image: url(/Images/plugin webpage bg 2.png);
+    background-image: url(/Images/plugin\ webpage\ bg\ 2.png);
     object-fit: fill;
     background-size: contain;
     padding: 20px 10%;
